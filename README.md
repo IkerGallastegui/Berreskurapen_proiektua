@@ -2,5 +2,4 @@
 
 # Abestiak
 
-Nire proiektua abestien ingurukoa izango da eta hurrengo estekatik hartu dut csv fitxategia:
-https://github.com/fivethirtyeight/data/blob/master/classic-rock/classic-rock-song-list.csv
+Nire proiektua abestien ingurukoa izango da eta csv fitxategia nik sortutakoa izan da.
