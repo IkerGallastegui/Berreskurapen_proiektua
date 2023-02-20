@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Abestiak>
+    <Abestia>
+        <album>"A Night at the Opera"</album>
+        <artista>"Queen"</artista>
+        <duracion>"5:55"</duracion>
+        <titulo>"Bohemian Rhapsody"</titulo>
+    </Abestia>
+    <Abestia>
+        <album>"Led Zeppelin IV"</album>
+        <artista>"Led Zeppelin"</artista>
+        <duracion>"8:03"</duracion>
+        <titulo>"Stairway to Heaven"</titulo>
+    </Abestia>
+    <Abestia>
+        <album>"Hotel California"</album>
+        <artista>"Eagles"</artista>
+        <duracion>"6:31"</duracion>
+        <titulo>"Hotel California"</titulo>
+    </Abestia>
+    <Abestia>
+        <album>"Nevermind"</album>
+        <artista>"Nirvana"</artista>
+        <duracion>"5:01"</duracion>
+        <titulo>"Smells Like Teen Spirit"</titulo>
+    </Abestia>
+    <Abestia>
+        <album>"Imagine"</album>
+        <artista>"John Lennon"</artista>
+        <duracion>"3:03"</duracion>
+        <titulo>"Imagine"</titulo>
+    </Abestia>
+    <Abestia>
+        <album>"Ã·"</album>
+        <artista>"Ed Sheeran"</artista>
+        <duracion>"3:54"</duracion>
+        <titulo>"Shape of You"</titulo>
+    </Abestia>
+    <Abestia>
+        <album>"Arrival"</album>
+        <artista>"ABBA"</artista>
+        <duracion>"3:52"</duracion>
+        <titulo>"Dancing Queen"</titulo>
+    </Abestia>
+    <Abestia>
+        <album>"Highway 61 Revisited"</album>
+        <artista>"Bob Dylan"</artista>
+        <duracion>"6:13"</duracion>
+        <titulo>"Like a Rolling Stone"</titulo>
+    </Abestia>
+    <Abestia>
+        <album>"Supernatural"</album>
+        <artista>"Santana ft. Rob Thomas"</artista>
+        <duracion>"4:56"</duracion>
+        <titulo>"Smooth"</titulo>
+    </Abestia>
+    <Abestia>
+        <album>"Thriller"</album>
+        <artista>"Michael Jackson"</artista>
+        <duracion>"4:54"</duracion>
+        <titulo>"Billie Jean"</titulo>
+    </Abestia>
+    <Abestia>
+        <album>"The Razors Edge"</album>
+        <artista>"AC/DC"</artista>
+        <duracion>"4:53"</duracion>
+        <titulo>"Thunderstruck"</titulo>
+    </Abestia>
+    <Abestia>
+        <album>"Synchronicity"</album>
+        <artista>"The Police"</artista>
+        <duracion>"4:14"</duracion>
+        <titulo>"Every Breath You Take"</titulo>
+    </Abestia>
+    <Abestia>
+        <album>"I Never Loved a Man the Way I Love You"</album>
+        <artista>"Aretha Franklin"</artista>
+        <duracion>"2:29"</duracion>
+        <titulo>"Respect"</titulo>
+    </Abestia>
+    <Abestia>
+        <album>"The Beatles (White Album)"</album>
+        <artista>"The Beatles"</artista>
+        <duracion>"7:11"</duracion>
+        <titulo>"Hey Jude"</titulo>
+    </Abestia>
+</Abestiak>
